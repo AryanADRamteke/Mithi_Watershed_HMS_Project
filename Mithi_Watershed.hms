@@ -1,0 +1,27 @@
+Project: Mithi_Watershed
+     Description: 
+     Version: 4.13
+     Filepath Separator: \
+     DSS File Name: Mithi_Watershed.dss
+     Time Zone ID: Asia/Calcutta
+End:
+
+Precipitation: Mithi_Storm
+     Filename: Mithi_Storm.met
+     Description: 
+     Last Modified Date: 13 August 2026
+     Last Modified Time: 08:00:58
+End:
+
+Basin: Mithi_Basin
+     Filename: Mithi_Basin.basin
+     Description: 
+     Last Modified Date: 13 August 2026
+     Last Modified Time: 07:49:34
+End:
+
+Control: Storm_6hr
+     FileName: Storm_6hr.control
+     Description: 
+End:
+
