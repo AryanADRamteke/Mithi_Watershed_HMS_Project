@@ -35,6 +35,8 @@ discharge for urban flood-risk assessment.
 
 ## Outputs
 - `outputs/mithi_hydrograph.png` — simulated outflow hydrograph
+## Hydrograph Result
+![Mithi Outflow Hydrograph](outputs/mithi_hydrograph.png)
 
 ## Reference
 Zope, P.E., Eldho, T.I. and Jothiprakash, V. (2016) Development of 
